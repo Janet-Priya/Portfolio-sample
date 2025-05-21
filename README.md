@@ -19,7 +19,7 @@ The portfolio includes various sections such as:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 This project was developed using:
 
@@ -32,10 +32,10 @@ This project was developed using:
 
 ---
 
-##Deployment
+##  Deployment
 The project is deployed using Netlify.
 Visit the live website here:
-👉 your-portfolio-name.netlify.app
+👉 https://portfoliodejanet.netlify.app
 
 ## Getting Started
 
