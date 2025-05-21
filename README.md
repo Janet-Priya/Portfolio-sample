@@ -1,11 +1,11 @@
-# 🎓 Janet Priya Anand – Portfolio Website
+#  Janet Priya Anand – Portfolio Website
 
 This is a personal portfolio project developed by **Janet Priya Anand**, built as part of a mandatory academic submission.  
 It showcases my background, technical skills, projects, and aspirations as an **aspiring Data Scientist**.
 
 ---
 
-## 📄 Overview
+##  Overview
 
 The portfolio includes various sections such as:
 
@@ -19,7 +19,7 @@ The portfolio includes various sections such as:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 This project was developed using:
 
@@ -32,7 +32,12 @@ This project was developed using:
 
 ---
 
-## 🚀 Getting Started
+##Deployment
+The project is deployed using Netlify.
+Visit the live website here:
+👉 your-portfolio-name.netlify.app
+
+## Getting Started
 
 If you'd like to run the portfolio locally:
 
@@ -43,3 +48,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Janet-Priya/Portfolio-sample.git
 git push -u origin main
+
