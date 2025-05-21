@@ -53,6 +53,7 @@ git push -u origin main
 
 
 ## 🧁 Final Note
-- Even though this was "mandatory", I had fun building it and expressing myself through code.
+- Even though this was "mandatory", I had fun building it and expressing myself through code, more like what can I add to make it like the strawberry-matcha style.
+- So, it's more like experimenting with the Frontend design part of it
 - Made with 💖 by Janet Priya Anand.
 - Bon appetit, mon ami!
