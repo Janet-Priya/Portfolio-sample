@@ -53,6 +53,6 @@ git push -u origin main
 
 
 ## 🧁 Final Note
--Even though this was "mandatory", I had fun building it and expressing myself through code.
--Made with 💖 by Janet Priya Anand.
--Bon appetit,mon ami!
+- Even though this was "mandatory", I had fun building it and expressing myself through code.
+- Made with 💖 by Janet Priya Anand.
+- Bon appetit, mon ami!
