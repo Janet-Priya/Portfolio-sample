@@ -2,6 +2,7 @@
 
 This is a personal portfolio project developed by **Janet Priya Anand**, built as part of a mandatory academic submission.  
 It showcases my background, technical skills, projects, and aspirations as an **aspiring Data Scientist**.
+But to be honest, it's more of a sample of it and doesn't have everything. Hence this is not legit.
 
 ---
 
@@ -48,4 +49,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Janet-Priya/Portfolio-sample.git
 git push -u origin main
+```
 
+
+## 🧁 Final Note
+Even though this was "mandatory", I had fun building it and expressing myself through code.
+Made with 💖 by Janet Priya Anand
+Bon appetit,mon ami!
